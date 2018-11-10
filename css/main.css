@@ -65,7 +65,7 @@ li, p, a{
     width: 95%;
     margin: 0 auto;
     display: grid;
-    grid-template-rows: 4% 9% 82% 5%;
+    grid-template-rows: 4% 10% 81% 5%;
     box-shadow: 1px 1px 8px hsl(0, 0%, 53%);
     border: 1px solid 	hsl(0, 0%, 53%);
     border-radius: 8px;
